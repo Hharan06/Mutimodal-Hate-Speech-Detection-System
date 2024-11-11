@@ -55,6 +55,7 @@ Both modules feed into a central decision system that combines the results for f
 - Use publicly available datasets containing labeled comments, such as:
   - Twitter datasets on hate speech
   - Online forums or social media platforms (ensure compliance with their terms)
+  - Used dataset link : https://github.com/idontflow/OLID/blob/master/own/cleaned_train_data_v0.csv
 
 ### Image Data
 - Collect memes from social media, ensuring to label images based on the categories mentioned above.
